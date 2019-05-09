@@ -23,7 +23,6 @@ class ViewController: UIViewController {
 
 
     @IBAction func addName(_ sender: UIBarButtonItem) {
-        
         let alert = UIAlertController(title: "New Name",
                                       message: "Add a new name",
                                       preferredStyle: .alert)
